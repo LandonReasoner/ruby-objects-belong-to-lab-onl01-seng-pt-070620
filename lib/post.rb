@@ -5,6 +5,5 @@ class Post
   def initialize
     @title = title
     @author = author
-    author.titles << self
   end
 end
