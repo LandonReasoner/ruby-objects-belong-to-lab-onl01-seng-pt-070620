@@ -4,6 +4,6 @@ class Author
 
   def initialize
     @name = name
-    @
+    @title = []
   end
 end
